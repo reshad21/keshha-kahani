@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\bar-chart"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bar-chart"
+	}
+}
